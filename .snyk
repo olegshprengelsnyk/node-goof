@@ -1,0 +1,5 @@
+ignore:
+  'SNYK-JS-UNSETVALUE-2400660':
+    - '*':
+        reason: <REASON>
+        expires: <EXPIRY>
