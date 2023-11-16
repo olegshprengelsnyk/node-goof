@@ -3,3 +3,6 @@ ignore:
     - '*':
         reason: <REASON>
         expires: <EXPIRY>
+exclude:
+  global:
+    - routes
